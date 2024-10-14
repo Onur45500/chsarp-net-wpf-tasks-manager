@@ -1,0 +1,1 @@
+# chsarp-net-wpf-tasks-manager
