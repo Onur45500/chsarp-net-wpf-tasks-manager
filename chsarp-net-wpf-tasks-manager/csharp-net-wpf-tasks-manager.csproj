@@ -13,7 +13,6 @@
     <Folder Include="Assets\Files\Data\" />
     <Folder Include="Assets\Files\Txt\" />
     <Folder Include="Assets\Images\" />
-    <Folder Include="Models\" />
     <Folder Include="DataService\" />
     <Folder Include="Dictionnaries\" />
     <Folder Include="Services\" />

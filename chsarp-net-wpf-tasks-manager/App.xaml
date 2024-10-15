@@ -4,6 +4,12 @@
              xmlns:local="clr-namespace:chsarp_net_wpf_tasks_manager"
              StartupUri="Views/MainWindow.xaml">
     <Application.Resources>
-         
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Dictionnaries/Colours.xaml"/>
+                <ResourceDictionary Source="Dictionnaries/Icons.xaml"/>
+                <ResourceDictionary Source="Dictionnaries/Styles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
     </Application.Resources>
 </Application>
