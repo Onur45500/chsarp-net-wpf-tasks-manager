@@ -16,7 +16,6 @@
     <Folder Include="DataService\" />
     <Folder Include="Dictionnaries\" />
     <Folder Include="Services\" />
-    <Folder Include="ViewModels\" />
   </ItemGroup>
 
 </Project>
