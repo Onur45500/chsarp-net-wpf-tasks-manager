@@ -15,6 +15,10 @@ namespace chsarp_net_wpf_tasks_manager.Models
         public DateTime StartDate { get; set; }
         public bool IsComplete { get; set; }
         public TimeSpan Timer { get; set; }
+
+        public TaskState TaskState { get; set; }
+        public TaskCategory TaskCategory { get; set; }
+        public TaskImportance TaskImportance { get; set; }
     }
 
     public enum TaskState
